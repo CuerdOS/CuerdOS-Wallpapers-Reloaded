@@ -25,7 +25,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | ----------- | ------------------ |
 | Dark Misty | ![Misty](/cuerd-scr/Misty.png) |
 | Scumm Vectorial | ![Vectorial](/cuerd-scr/Vectorial.png) |
-| Atmosferic | ![Atmos](/cuerd-scr/Atmos.png) |
+| Atmosphere | ![Atmos](/cuerd-scr/Atmosphere.png) |
 | Paralel (Boceto) | ![Boceto](/cuerd-scr/Boceto.png) |
 
 ## Geometricos o Vectoriales
