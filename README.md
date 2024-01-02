@@ -17,12 +17,12 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 ## Para Ediciones o otras interfaces graficas
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| i3 Standard Edition | ![Standard Edition](/cuerd-md/i3-edition.png) |
-| Sway Standard Edition | ![Standard Edition](/cuerd-md/sway-edition.png) |
+| i3 Standard Edition | ![Standard Edition](/cuerd-scr/i3-edition.png) |
+| Sway Standard Edition | ![Standard Edition](/cuerd-scr/sway-edition.png) |
 | Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce-edition.png) |
-| MATE Edition (Disponible) | ![MATE](/cuerd-md/mate-edition.png) |
-| Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-md/cinnamon-edition.png) |
-| LXQt Edition (Disponible) | ![MATE](/cuerd-md/LXQt-edition.png) |
+| MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate-edition.png) |
+| Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon-edition.png) |
+| LXQt Edition (Disponible) | ![MATE](/cuerd-scr/LXQt-edition.png) |
 
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
