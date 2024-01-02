@@ -41,10 +41,10 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 ## ASCII (beta)
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-md/CuerdOS.png) |
-| Futuristico en ASCII | ![Futuristico](/cuerd-md/Futuristico.png) |
-| Mojave | ![Mojave](/cuerd-md/Mojave.png) |
-| Yoko | ![Yoko](/cuerd-md/Yoko.png) |
+| Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-scr/CuerdOS.png) |
+| Futuristico en ASCII | ![Futuristico](/cuerd-scr/Futuristico.png) |
+| Mojave | ![Mojave](/cuerd-scr/Mojave.png) |
+| Yoko | ![Yoko](/cuerd-scr/Yoko.png) |
 
 # Descargas
 Para descargar el pack, vendra en formato .zip o .pea (Use PeaZip) normalmente esta disponible en PNG. Se encuentrara en la parte de lanzamientos.
