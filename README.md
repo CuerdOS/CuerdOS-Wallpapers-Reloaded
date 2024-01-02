@@ -20,32 +20,33 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | i3 Standard Edition | ![Standard Edition](/cuerd-md/i3-edition.png) |
 | Sway Standard Edition | ![Standard Edition](/cuerd-md/sway-edition.png) |
 | Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce-edition.png) |
-| MATE Edition (NO oficial)(Instalable por el usuario de manera manual) | ![MATE](/cuerd-md/mate-edition.png) |
-| Cinnamon Edition (No oficial)(Instalable por el usuario de manera manual) | ![Cinnamon](/cuerd-md/cinnamon-edition.png) |
-| LXQt Edition (NO oficial)(Instalable por el usuario de manera manual) | ![MATE](/cuerd-md/LXQt-edition.png) |
+| MATE Edition (Disponible) | ![MATE](/cuerd-md/mate-edition.png) |
+| Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-md/cinnamon-edition.png) |
+| LXQt Edition (Disponible) | ![MATE](/cuerd-md/LXQt-edition.png) |
 
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Darker | ![Darker](/cuerd-md/Darker.png) |
+| Darker 80's | ![Darker](/cuerd-md/Darker.png) |
 | Vectorial Revival | ![Vectorial Revival](/cuerd-md/Revival.png) |
-| Colorizada Circular | ![Colorizada](/cuerd-md/Colorized.png) |
-| Visiones Cósmicas (Boceto) | ![Boceto](/cuerd-md/Boceto.png) |
+| Colorized | ![Colorizada](/cuerd-md/Colorized.png) |
+| Paralel (Boceto) | ![Boceto](/cuerd-md/Boceto.png) |
 
 ## Geometricos o Vectoriales
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Prism | ![Prism](/cuerd-md/Prism.png) |
-| Monte Nobara | ![Monte Nobara](/cuerd-md/Monte-Nobara.png) |
-| Cubic | ![Cubic](/cuerd-md/Cubic.png) |
+| Nobara | ![Monte Nobara](/cuerd-md/Nobara.png) |
+| Cubism | ![Cubic](/cuerd-md/Cubism.png) |
 | Sakura | ![Sakura](/cuerd-md/Sakura.png) |
 
 ## ASCII (beta)
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Logo/Lema de CuerdOS | ![Darker](/cuerd-md/CuerdOS.png) |
-| Trisquel | ![Vectorial Revival](/cuerd-md/Triquel.png) |
-| Pixeles | ![Colorizada](/cuerd-md/Pixels.png) |
+| Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-md/CuerdOS.png) |
+| Futuristico en ASCII | ![Futuristico](/cuerd-md/Futuristico.png) |
+| Mojave | ![Mojave](/cuerd-md/Mojave.png) |
+| Yoko | ![Yoko](/cuerd-md/Yoko.png) |
 
 # Descargas
 Para descargar el pack, vendra en formato .zip o .pea (Use PeaZip) normalmente esta disponible en PNG. Se encuentrara en la parte de lanzamientos.
