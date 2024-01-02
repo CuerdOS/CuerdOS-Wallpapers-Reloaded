@@ -14,7 +14,7 @@ Los fondos de pantalla que se presentan están destinados a diversas ediciones o
 
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| i3 Standard Edition | ![Standard Edition](i3-edition.png) |
-| Xfce Legacy Edition | ![Legacy Edition](xfce-edition.png) |
-| MATE Edition (Unofficial)(Instalable por el usuario de manera manual) | ![MATE](mate-edition.png) |
-| Cinnamon Edition (Unofficial)(Instalable por el usuario de manera manual) | ![Cinnamon](cinnamon-edition.png) |
+| i3 Standard Edition | ![Standard Edition](/cuerd-md/i3-edition.png) |
+| Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce-edition.png) |
+| MATE Edition (Unofficial)(Instalable por el usuario de manera manual) | ![MATE](/cuerd-md/mate-edition.png) |
+| Cinnamon Edition (Unofficial)(Instalable por el usuario de manera manual) | ![Cinnamon](/cuerd-md/cinnamon-edition.png) |
