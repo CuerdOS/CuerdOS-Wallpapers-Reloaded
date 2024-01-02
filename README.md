@@ -7,7 +7,7 @@
   <img src="/cuerd-md/cuerd-name.png" alt="Logo" width="532" height="92">
 </p>
 
-Son Fondos de pantalla para diferentes ediciones o instalaciones manuales de otros escritorios como MATE Desktop, i3, Sway o entre otros. Tambien se incluyen una variedad de fondos nuevos para darle vida a la distribucion y su propia imagen como distribución GNU/Linux.
+Los fondos de pantalla que se presentan están destinados a diversas ediciones o instalaciones manuales de distintos escritorios, tales como MATE Desktop, i3, Sway, entre otros. Estos no solo amplían la variedad estética, sino que también enriquecen la distribución, dotándola de una identidad propia en el universo de las distribuciones GNU/Linux. Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida a la distribución y fortalecer su imagen distintiva.
 
 <!-- Capturas de pantalla -->
 ## Capturas de pantalla - Screenshots
