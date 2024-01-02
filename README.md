@@ -36,7 +36,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Prism | ![Prism](/cuerd-md/Prism.png) |
-| Monte Isai | ![Monte Elena](/cuerd-md/Monte-Elena.png) |
+| Monte Nobara | ![Monte Nobara](/cuerd-md/Monte-Nobara.png) |
 | Cubic | ![Cubic](/cuerd-md/Cubic.png) |
 | Sakura | ![Sakura](/cuerd-md/Sakura.png) |
 
