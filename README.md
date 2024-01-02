@@ -5,7 +5,7 @@
 
 Los fondos de pantalla que se presentan están destinados a diversas ediciones o instalaciones manuales de distintos escritorios, tales como MATE Desktop, i3, Sway, entre otros. Estos no solo amplían la variedad estética, sino que también enriquecen la distribución, dotándola de una identidad propia en el universo de las distribuciones GNU/Linux. 
 
-Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida a la distribución y fortalecer su imagen distintiva.
+Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida a la distribución y fortalecer su imagen distintiva. Todos estos fondos fueron diseñados en el programa Inkscape, un programa de software libre.
 
 <!-- Capturas de pantalla -->
 # Capturas de pantalla
