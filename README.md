@@ -18,22 +18,22 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce-edition.png) |
 | MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate-edition.png) |
 | Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon-edition.png) |
-| LXQt Edition (Disponible) | ![MATE](/cuerd-scr/LXQt-edition.png) |
+| LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
 
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Darker 80's | ![Darker](/cuerd-md/Darker.png) |
-| Vectorial Revival | ![Vectorial Revival](/cuerd-md/Revival.png) |
-| Colorized | ![Colorizada](/cuerd-md/Colorized.png) |
-| Paralel (Boceto) | ![Boceto](/cuerd-md/Boceto.png) |
+| Dark Misty | ![Misty](/cuerd-scr/Misty.png) |
+| Scumm Vectorial | ![Vectorial](/cuerd-scr/Vectorial.png) |
+| Atmosferic | ![Atmos](/cuerd-scr/Atmos.png) |
+| Paralel (Boceto) | ![Boceto](/cuerd-scr/Boceto.png) |
 
 ## Geometricos o Vectoriales
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Prism | ![Prism](/cuerd-md/Prism.png) |
-| Nobara | ![Monte Nobara](/cuerd-md/Nobara.png) |
-| Cubism | ![Cubic](/cuerd-md/Cubism.png) |
+| Nobara | ![Nobara](/cuerd-md/Nobara.png) |
+| Cubism Glich | ![Cubic](/cuerd-md/Cubism.png) |
 | Sakura | ![Sakura](/cuerd-md/Sakura.png) |
 
 ## ASCII (beta)
