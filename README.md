@@ -8,7 +8,9 @@ Los fondos de pantalla que se presentan están destinados a diversas ediciones o
 Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida a la distribución y fortalecer su imagen distintiva. Todos estos fondos fueron diseñados en el programa Inkscape, un programa de software libre.
 
 <!-- Capturas de pantalla -->
-# Capturas de pantalla
+<p align="left">
+  <img src="/cuerd-md/pcm1.png" alt="Logo" width="287" height="42">
+</p>
 
 ## Para Ediciones o otras interfaces graficas
 | Descripción | Captura de pantalla |
