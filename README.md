@@ -28,7 +28,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Dark Misty | ![Misty](/cuerd-scr/Misty.png) |
 | Kitteh | ![Kitteh](/cuerd-scr/Kitteh.png) |
 | Postal Cosmic | ![Atmos](/cuerd-scr/Cosmic.png) |
-| Parallel (Boceto) | ![Boceto](/cuerd-scr/Boceto.png) |
+| Parallel Green | ![Boceto](/cuerd-scr/Parallel.png) |
 
 ## Geometricos o Vectoriales
 | Descripción | Captura de pantalla |
