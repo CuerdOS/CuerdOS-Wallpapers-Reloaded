@@ -30,7 +30,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Postal Cosmic | ![Atmos](/cuerd-scr/Cosmic.png) |
 | Parallel Green | ![Boceto](/cuerd-scr/Parallel.png) |
 
-## Geometricos o Vectoriales
+## Especiales
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Prism | ![Prism](/cuerd-scr/Prism.png) |
