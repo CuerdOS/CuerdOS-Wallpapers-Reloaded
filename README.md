@@ -33,10 +33,10 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 ## Geometricos o Vectoriales
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Prism | ![Prism](/cuerd-md/Prism.png) |
-| Nobara | ![Nobara](/cuerd-md/Nobara.png) |
-| Cubism Glich | ![Cubic](/cuerd-md/Cubism.png) |
-| Sakura | ![Sakura](/cuerd-md/Sakura.png) |
+| Prism | ![Prism](/cuerd-scr/Prism.png) |
+| Nobara | ![Nobara](/cuerd-scr/Nobara.png) |
+| Cubism Glich | ![Cubic](/cuerd-scr/Cubism.png) |
+| Sakura | ![Sakura](/cuerd-scr/Sakura.png) |
 
 ## ASCII (beta)
 | Descripción | Captura de pantalla |
