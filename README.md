@@ -31,7 +31,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Kitteh | ![Kitteh](/cuerd-scr/Kitteh.png) |
 | Postal Cosmic | ![Atmos](/cuerd-scr/Cosmic.png) |
 | Parallel Green | ![Boceto](/cuerd-scr/Parallel.png) |
-| Cosmic | ![Cosmic](/cuerd-scr/Cosmic.png) |
+| Orion Green | ![Orion](/cuerd-scr/Orion.png) |
 
 ## Especiales
 | Descripción | Captura de pantalla |
