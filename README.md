@@ -44,7 +44,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-scr/CuerdOS.png) |
-| Futuristico en ASCII | ![Futuristico](/cuerd-scr/Futuristico.png) |
+| Luna | ![Luna](/cuerd-scr/Luna.png) |
 | Mojave | ![Mojave](/cuerd-scr/Mojave.png) |
 | Yoko | ![Yoko](/cuerd-scr/Yoko.png) |
 
