@@ -21,6 +21,8 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate-edition.png) |
 | Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon-edition.png) |
 | LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
+| Budgie Edition (No disponible) | ![Budgie](/cuerd-scr/Budgie-edition.png) |
+| KDE Plasma Edition (No disponible) | ![Plasma](/cuerd-scr/Plasma-edition.png) |
 
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
