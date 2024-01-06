@@ -23,7 +23,6 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
 | Budgie Edition (Disponible) | ![Budgie](/cuerd-scr/Budgie-edition.png) |
 | KDE Plasma Edition (Disponible) | ![Plasma](/cuerd-scr/Plasma-edition.png) |
-| bspwm (No disponible) | ![bspwm](/cuerd-scr/bspwm-edition.png) |
 | awesome (Disponible) | ![awesome](/cuerd-scr/awesome-edition.png) |
 | GNOME (Disponible) | ![GNOME](/cuerd-scr/GNOME-edition.png) |
 
