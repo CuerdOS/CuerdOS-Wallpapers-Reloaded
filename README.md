@@ -42,13 +42,12 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Nobara | ![Nobara](/cuerd-scr/Nobara.png) |
 | Cubism Glich | ![Cubic](/cuerd-scr/Cubism.png) |
 | Sakura | ![Sakura](/cuerd-scr/Sakura.png) |
+| Galaxy | ![Galaxy](/cuerd-scr/Galaxy.png) |
 
 ## ASCII (beta)
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-scr/CuerdOS.png) |
-| Luna | ![Luna](/cuerd-scr/Luna.png) |
-| Mojave | ![Mojave](/cuerd-scr/Mojave.png) |
 | Yoko | ![Yoko](/cuerd-scr/Yoko.png) |
 
 # Descargas
