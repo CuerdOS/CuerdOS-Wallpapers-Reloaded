@@ -12,7 +12,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
   <img src="/cuerd-md/pcm1.png" alt="Logo" width="287" height="42">
 </p>
 
-## Para Ediciones o otras interfaces graficas (Disponibles en formato SVG)
+## Para Ediciones o otras interfaces graficas
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | i3 Standard Edition | ![Standard Edition](/cuerd-scr/i3-edition.png) |
